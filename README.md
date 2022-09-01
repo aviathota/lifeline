@@ -1,2 +1,2 @@
-# lifeline
-A disease-themed tower defense style game, written using Android
+# Lifeline
+A disease-themed tower defense style game, written using Android!
